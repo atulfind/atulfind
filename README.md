@@ -23,3 +23,8 @@
 <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/d3js/d3js-original.svg" alt="express" width="40" height="40"/> 
 </p>
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atulfind&layout=compact&hide=html" alt="atulfind" /></p>
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=atulfind&show_icons=true" alt="atulfind" /> </p>
