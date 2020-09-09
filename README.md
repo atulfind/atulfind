@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=atulfind" alt="atulfind" /> </p>
+
 - 🔭 I’m currently working on **Zoabe Technologies🙈**
 - 🌱 I’m currently learning **React-Native 📱**
 - 👯 I’m looking to  **collaborate** on **innovative ideas and projects**
